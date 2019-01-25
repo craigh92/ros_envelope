@@ -1,4 +1,4 @@
-# ros_envelope_release
+# ros_envelope
 
 This library provides a wrapper/contatiner class for ROS Messages, with a common interface.
 
